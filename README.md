@@ -3,8 +3,8 @@ A mini ecommerce app created using python script.
 The app runs like a normal shopping app with two sections; **Administrator section** and **Customer section**.
 
 The app two sections:
-**1. Administrator section**
-**2. Customer section**
+1. Administrator section
+2. Customer section
 
 ## Administrator section
 The section has the following features:
